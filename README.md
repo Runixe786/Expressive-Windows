@@ -1,6 +1,6 @@
 
-<img src="Images/banner.png#gh-light-mode-only" width="1080" alt="Logo" align="center">
-<img src="Images/banner.png#gh-dark-mode-only" width="1080" alt="Logo" align="center">
+<img src="Images/cover.png#gh-light-mode-only" width="1080" alt="Logo" align="center">
+<img src="Images/cover.png#gh-dark-mode-only" width="1080" alt="Logo" align="center">
 
  <h1 align="center">Expressive Windows</h1>
 
