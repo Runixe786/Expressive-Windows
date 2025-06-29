@@ -39,7 +39,7 @@
 # Installation
 
 1. Install/ Update [Rainmeter for Windows](https://www.rainmeter.net/).
-2. Download the [latest release of NThing UI](https://github.com/Runixe786/Expressive-Windows/releases/latest).
+2. Download the [latest release of Expressive Windows](https://github.com/Runixe786/Expressive-Windows/releases/latest).
 3. Double click the downloaded `.rmskin` file and it should open the skin install dialog.
    > If you have a portable Rainmeter install, your file may not open by default by the skin installer. If so, open the `.rmskin` file with the `SkinInstaller.exe` file in the Rainmeter install directory.<br>
    > ![Untitled-1 Large](https://github.com/user-attachments/assets/799a7b9f-bff5-49c1-aa91-d9741b86abbd)
