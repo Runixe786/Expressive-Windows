@@ -13,7 +13,7 @@
 <img src="https://m3-markdown-badges.vercel.app/issues/6/3/Runixe786/Expressive-Windows">
 </p>
 
-# Features of NThing UI
+# Features of Expressive Windows
 
 - 3 styles for clock widget
 - 3 styles for date widget
